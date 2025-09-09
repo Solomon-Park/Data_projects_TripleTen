@@ -1,11 +1,12 @@
-# Data_projects_TripleTen[README.md](https://github.com/user-attachments/files/22243890/README.md)
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Norbu stress control| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | Spreadsheet Data Analysis: TripleTen Project| The project task was to analyze Airbnb data and find which property types to invest in for Airbnb in NYC |
+| 2 | Exploring Startup Trends with SQL: TripleTen Project | The project task was to use SQL to help shape an upcoming quarterly investment report |
+| 3 | Business Analytics: TripleTen Project | The project task was to turn event logs into business metrics and to find and analyze cohorts, conversion funnels, and retention rates |
+| 4 | Data Visualization with Tableau: TripleTen Project | The project task was to use Tableau to review a superstore's operations and increase its profitability using visualizations to justify my conclusions |
+| 5 | Storytelling with Data: TripleTen Project | The project task was to use Tableau to analyze the same superstore to see what is causing high numbers of returned orders |
+| 6 | Shopify App Analysis: TripleTen Project | The project task was to use Power BI to review the landscape of apps on the Shopify platform using data scraped from publicly available Shopify websites and to figure out what key factors play into the success of a Shopify app |
